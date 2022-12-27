@@ -1,0 +1,14 @@
+.categories {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  color: #64748b;
+  font-size: 14px;
+}
+
+.categories h4 {
+  color: #1a1a1a;
+  letter-spacing: 2px;
+}
+

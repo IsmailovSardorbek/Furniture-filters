@@ -1,0 +1,22 @@
+.card-img {
+  height: 13rem;
+  object-fit: cover;
+  border-radius: 6px;
+  width: 100%;
+}
+
+.card-body {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.title {
+  color: #64748b;
+  font-weight: 400;
+  margin-bottom: 0.7rem;
+  letter-spacing: 1.5px;
+}
+
+.price {
+  font-weight: 600;
+}

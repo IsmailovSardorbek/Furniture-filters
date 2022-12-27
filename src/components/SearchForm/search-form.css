@@ -1,0 +1,21 @@
+.search {
+  margin-bottom: 2rem;
+}
+
+.search-form {
+  flex-grow: 0.1;
+  margin-bottom: 3rem;
+}
+
+.search-input {
+  background: #e2e8f0;
+  border: 0;
+  outline: 0;
+  padding: 0.7rem;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+::placeholder {
+  font-family: "Open Sans", sans-serif;
+}
